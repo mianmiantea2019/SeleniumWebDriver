@@ -1,0 +1,24 @@
+{
+  "name": "seleniumwebdriver",
+  "version": "1.0.0",
+  "description": "SeleniumWebDriver",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mianmiantea2019/SeleniumWebDriver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mianmiantea2019/SeleniumWebDriver/issues"
+  },
+  "homepage": "https://github.com/mianmiantea2019/SeleniumWebDriver#readme",
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.9.2"
+  }
+}
