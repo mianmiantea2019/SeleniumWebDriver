@@ -11,5 +11,11 @@ To use this project, you need to have Node.js and npm (Node Package Manager) ins
 3. Install the dependencies: `npm install/ yarn add`
 
 
-![Alt Text](https://github.com/mianmiantea2019/SeleniumWebDriver/blob/main/images/AdvanceButtonTest.JPG)
+![AdvanceButtonTest](https://github.com/mianmiantea2019/SeleniumWebDriver/blob/main/images/AdvanceButtonTest.JPG)
+![AdvanceLocatorTest](https://github.com/mianmiantea2019/SeleniumWebDriver/blob/main/images/AdvanceLocatorTest_Coverage.JPG)
+![ButtonTest_Coverage](https://github.com/mianmiantea2019/SeleniumWebDriver/blob/main/images/ButtonTest_Coverage.JPG)
+![Button_assertionTest](https://github.com/mianmiantea2019/SeleniumWebDriver/blob/main/images/Button_assertionTest.JPG)
+![HyperlinkTest_Coverage](https://github.com/mianmiantea2019/SeleniumWebDriver/blob/main/images/HyperlinkTest_Coverage.JPG)
+![Hyperlinks_data_arrtributesTest](https://github.com/mianmiantea2019/SeleniumWebDriver/blob/main/images/Hyperlinks_data_arrtributesTest.JPG)
+![MultiplelinkTest_Coverage](https://github.com/mianmiantea2019/SeleniumWebDriver/blob/main/images/MultiplelinkTest_Coverage.JPG)
 
