@@ -4,7 +4,7 @@
   "description": "SeleniumWebDriver",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test.js"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "devDependencies": {
     "mocha": "^10.2.0",
     "selenium-webdriver": "^4.9.2"
+  },
+  "dependencies": {
+    "chromedriver": "^113.0.0"
   }
 }
