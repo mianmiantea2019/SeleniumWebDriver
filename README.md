@@ -10,3 +10,6 @@ To use this project, you need to have Node.js and npm (Node Package Manager) ins
 2. Navigate to the project directory: `cd SeleniumWebDriver`
 3. Install the dependencies: `npm install/ yarn add`
 
+
+![Test Run]([AdvanceButtonTest.JPG](https://github.com/mianmiantea2019/SeleniumWebDriver/blob/main/images/AdvanceButtonTest.JPG))
+
